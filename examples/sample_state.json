@@ -1,0 +1,12 @@
+{
+  "my_leader": {"name": "Luffy", "power": 5000},
+  "my_characters": [
+    {"name": "Zoro", "power": 6000, "rested": false},
+    {"name": "Nami", "power": 2000, "rested": true}
+  ],
+  "opp_leader": {"name": "Kid", "power": 5000},
+  "opp_characters": [
+    {"name": "Killer", "power": 5000, "rested": false}
+  ],
+  "don_available": 2
+}
